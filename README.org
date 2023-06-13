@@ -1,0 +1,10 @@
+* schannel
+
+Common Lisp Windows SChannel API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/schannel.git   |
+| commit  | 9518284  |
+| systems | schannel |
+|---------+-------------------------------------------|
+
